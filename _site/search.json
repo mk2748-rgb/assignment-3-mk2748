@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Merve",
+    "objectID": "favorite.html",
+    "href": "favorite.html",
+    "title": "Merve’s favorite things",
     "section": "",
-    "text": "Merve from MPS in Natural Resources\nI have a strong interest in new farming technologies\nI love cows and horses\nI want to start my own company researching on available technos for soil crop improvement"
+    "text": "Food\n\n\n\n\n\nMy dog (Pearl)\n\n\n\n\n\nFamily"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "AgriNova Technologies & Ventures",
     "section": "",
     "text": "This is Merve’s website for the assignment 3 and my dear collaborator is Mara Braddy.\nMerve’s Github\nMara’s Github\n\n\n\n\nAgri R&D improves soil management and farm practices"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Merve",
+    "section": "",
+    "text": "Merve from MPS in Natural Resources\nI have a strong interest in new farming technologies\nI love cows and horses\nI want to start my own company researching on available technos for soil crop improvement"
   }
 ]

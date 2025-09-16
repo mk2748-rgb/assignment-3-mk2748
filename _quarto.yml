@@ -8,12 +8,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - more_about_merve.qmd
+      - favorite.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - minty
       - brand
     css: styles.css
     toc: true

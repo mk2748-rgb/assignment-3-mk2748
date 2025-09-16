@@ -1,4 +1,16 @@
 ---
-title: "All of Merve's favorite things"
+title: "Merve's favorite things"
 editor: visual
 ---
+
+Food
+
+![](https://media.istockphoto.com/id/1173611372/photo/traditional-middle-eastern-or-arabic-dinner-table-halal-food-top-view-flat-lay.jpg?s=612x612&w=0&k=20&c=0Oi71aeoJxCeBRa3LEtYanvGsbIgWM_K3jcADYUJBM8=){fig-align="left"}
+
+My dog (Pearl)
+
+![](https://c8.alamy.com/comp/HN2Y08/small-toy-grey-dog-outside-sunny-close-up-HN2Y08.jpg){fig-align="left"}
+
+Family
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDswdNMmbLZR0peZIjJfk8MbFznoqxn41ANw&s){fig-align="left"}
