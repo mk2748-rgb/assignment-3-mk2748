@@ -2,10 +2,12 @@
 title: "Merve"
 ---
 
--   Merve from MPS in Natural Resources
+Hello, I'm Merve from MPS in Natural Resources
 
--   I have a strong interest in new farming technologies
+-   I have a strong interest in new farming technologies.
 
--   I love cows and horses
+-   I love cows and horses.
 
--   I want to start my own company researching on available technos for soil crop improvement
+-   I want to start my own company researching on available technos for soil crop improvement.
+
+-   I'm from Turkey.
