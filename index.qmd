@@ -1,0 +1,7 @@
+---
+title: "AgriNova Technologies & Ventures"
+---
+
+This is Merve's website and my collaborator is Mara [marabraddy](https://github.com/marabraddy)\
+
+![Agri R&D improves soil management and farm practices](https://www.csm.tech/storage/uploads/images/1804Agritech%20for%20food%20security-01%20(1).jpg){fig-align="center"}
