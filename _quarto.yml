@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - more_about_merve.qmd
 
 format:
   html:
